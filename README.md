@@ -35,5 +35,5 @@ This is a list of best practices and a compilation of the most common mistakes w
 
 
 ## Additional Resources
-- http://vita.had.co.nz/papers/tidy-data.pdf
-- http://kb.tableau.com/articles/knowledgebase/preparing-excel-files-analysis
+- Wickham, H. Tidy Data (2014). Journal of Statistical Software, Vol. 59, Issue 10, Sep 2014. http://vita.had.co.nz/papers/tidy-data.pdf
+- Tableau Software. Preparing Excel Files for Analysis (05 Dec 2014). http://kb.tableau.com/articles/knowledgebase/preparing-excel-files-analysis
