@@ -1,0 +1,2 @@
+# tidy-data-rulebook
+This is a list of best practices and a compilation of the most common mistakes when we collect, store, and deliver data for further analysis and visualization. It’s inspired and broadly based on the excellent paper Tidy Data (http://www.jstatsoft.org/v59/i10) by Hadley Wickham as well as our own experience at Interactive Things while working with clients on data-driven design projects.
